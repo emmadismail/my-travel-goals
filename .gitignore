@@ -1,0 +1,20 @@
+# Node artifacts
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Env files
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
